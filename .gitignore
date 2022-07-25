@@ -11,7 +11,7 @@ Saved
 *.sln
 *.suo
 *.xcodeproj
-*/Content/AssetFolder1/
-*/Content/AssetFolder2/
+Content/AssetFolder1/
+Content/AssetFolder2/
 *.xcworkspace
 Content/Assetfolder1/실험1.uasset
