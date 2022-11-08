@@ -34,5 +34,8 @@
 			"Name": "SunPosition",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
